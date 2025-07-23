@@ -10,7 +10,7 @@ Un guide complet et moderne pour découvrir Tinghir, avec une interface web simp
 
 ## Description
 
-Ce projet est une application web créée avec React (ou autre framework si applicable) pour offrir un guide touristique et culturel sur Tinghir. Il inclut des informations, images, et ressources pour découvrir cette belle région.
+Ce projet est une application web créée avec React pour offrir un guide touristique et culturel sur Tinghir. Il inclut des informations, images, et ressources pour découvrir cette belle région.
 
 ## Fonctionnalités
 
@@ -19,10 +19,4 @@ Ce projet est une application web créée avec React (ou autre framework si appl
 - Design moderne et épuré
 - Déploiement continu via Vercel
 
-## Installation
 
-```bash
-git clone https://github.com/aimranehousni/tinghir.git
-cd tinghir
-npm install
-npm start
